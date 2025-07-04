@@ -301,7 +301,8 @@ hr {
   }
 
   #our-story .title {
-    transform: translateX(50px);
+    transform: translateX(10vw);
+    margin: unset;
   }
 
   #our-story .line {
